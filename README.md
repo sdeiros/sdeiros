@@ -7,7 +7,7 @@
 <h3>💻 Sobre mim</h3>
 📍 Tenho 17 anos e moro no Rio de Janeiro - Brasil <br>
 Estou começando a programar recentemente e por enquanto, ainda estou apreendendo e me aprofundando sobre o assunto <br> 
-Por aqui, irei postar meus trabalhos que estou desenvolvendo 🤙 <br>
+Por aqui, irei postar meus trabalhos pessoais e do cyrso Técnico que estou desenvolvendo 🤙 <br>
   <hr>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
