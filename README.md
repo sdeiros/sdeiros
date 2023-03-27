@@ -1,7 +1,7 @@
 ### Olá, eu sou Davi Medeiros 👋
 
 - ✨ Atualmente eu desenvolvo em HTML e CSS - FrontEnd
-- 🧠 Atualmente estou aprendendo JavaScript
+- 🧠 Atualmente estou aprendendo JavaScript e Python
 
 <div>
 <h3>💻 Sobre mim</h3>
