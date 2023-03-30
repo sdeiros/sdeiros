@@ -12,9 +12,9 @@ Por aqui, irei postar meus trabalhos pessoais e do curso Técnico que estou dese
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <a href="https://www.figma.com" target="_blank" ><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <a href="mailto:davi.medeiros.silva1@gmail.com?subject=&body=" target="_blank" ><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a href="https://music.youtube.com/playlist?list=PLibow4a6VPxoYZF--MdSSoNxnYM3OkYmA&feature=share" target="_blank"><img alt="Playlist YouTube" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
+  <a href="https://www.figma.com" target="_blank" rel="noopener noreferrer"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <a href="mailto:davi.medeiros.silva1@gmail.com?subject=&body=" target="_blank" rel="noopener noreferrer"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://music.youtube.com/playlist?list=PLibow4a6VPxoYZF--MdSSoNxnYM3OkYmA&feature=share" target="_blank" rel="noopener noreferrer"><img alt="Playlist YouTube" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 </div>
 <hr>
 <div>
