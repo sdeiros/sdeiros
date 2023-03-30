@@ -18,6 +18,6 @@ Por aqui, irei postar meus trabalhos pessoais e do curso Técnico que estou dese
 </div>
 <hr>
 <div>
-   <a href="https://github.com/sdeiros"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sdeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <a href="https://github.com/sdeiros"><img align="center" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeiros&layout=compact"/>
+   <a href="https://github.com/sdeiros"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sdeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <a href="https://github.com/sdeiros"><img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeiros&layout=compact"/>
 </div>
 
