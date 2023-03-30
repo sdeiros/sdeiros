@@ -20,4 +20,4 @@ Por aqui, irei postar meus trabalhos pessoais e do curso Técnico que estou dese
 <div>
    <a href="https://github.com/sdeiros"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sdeiros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <a href="https://github.com/sdeiros"><img align="center" height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeiros&compact"/>
 </div>
-     ![Snake animation](https://github.com/sdeiros/sdeiros/blob/output/github-contribution-grid-snake.svg)
+
